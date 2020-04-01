@@ -11,7 +11,7 @@ class Config(object):
 
     # REQUIRED
     API_KEY = ""
-    OWNER_ID = "686021814" # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_ID = "942978357" # If you dont know, run the bot and do /id in your private chat with it
     OWNER_USERNAME = "ABH! CRAKCER"
 
     # RECOMMENDED
